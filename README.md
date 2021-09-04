@@ -1,6 +1,6 @@
 # discussion
 
-<a href="https://github.com/compiler-s21/discussion/issues?utf8=%E2%9C%93&q=is%3Aissue"><img src="./res/landing-img.png"></img> <- click to see all issues</a>
+<a href="https://github.com/compiler-f21/Discussion/issues"><img src="./res/landing-img.png"></img> <- click to see all issues</a>
 
 |announcements|solved|unsolved|
 |:-:|:-:|:-:|
