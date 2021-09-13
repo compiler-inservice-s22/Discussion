@@ -12,7 +12,7 @@
 
 大部分已解決問題會被自動歸類在 `closed issued` 之下，所以別忘記先查看已經關閉的 `Issues`。
 
-新進同學請依照 [新手教學](https://github.com/compiler-s21/discussion/issues/1) 實際跑一次發問流程。
+新進同學請依照 [新手教學](https://github.com/compiler-f21/Discussion/issues/1) 實際跑一次發問流程。
 
 ### 簡易索引
 
