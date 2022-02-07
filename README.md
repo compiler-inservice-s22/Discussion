@@ -20,8 +20,8 @@
 
 |代稱|意義|
 |:-:|:-:|
-|@compiler-f21/tas |所有助教跟老師|
-|@compiler-f21/students |所有學生|
+|@compiler-s22/tas |所有助教跟老師|
+|@compiler-s22/students |所有學生|
 
 ##### 教授，助教個別帳號
 
